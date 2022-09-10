@@ -186,7 +186,7 @@ input:focus {
   letter-spacing: -0.531474px;
   color: #696871;
 }
-.button {
+.button__item {
   width: 285px;
   background: white;
   color: #5454d4;
